@@ -14,7 +14,7 @@ A script to monitor postfix stats like Bounced, Bytes delivered etc. with [Zabbi
 
 ## Licence
 
-GPLv2 (see [debian/copyright](debian/copyright))
+GPLv2 or later (see [debian/copyright](debian/copyright))
 
 ## Template for the Zabbix frontend
 
